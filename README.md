@@ -1,7 +1,6 @@
 # watech_ignw_netops_github_lab
 
 # Favorite fruit
-- mango
-- grape
-- orange
-- kiwi
+- carrot
+- celery
+- tomato
